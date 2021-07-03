@@ -1,0 +1,3 @@
+# Lesson02
+
+- Today you will use the **Spotify** notebook to do ...
