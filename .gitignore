@@ -1,4 +1,12 @@
 # Byte-compiled / optimized / DLL files
+.config/
+.gitconfig
+.jupyter/
+.keras/
+.local/
+.npm/
+.viminfo
+
 __pycache__/
 *.py[cod]
 *$py.class
